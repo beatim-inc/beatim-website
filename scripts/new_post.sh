@@ -10,6 +10,6 @@ current_date=$(date +"%Y-%m-%d-%H-%M")
 hugo new "posts/$current_date/index.md"
 
 # 4. `YYYY-MM-DD-hh-mm`に対して`images`ディレクトリを作成する
-mkdir -p "/content/ja/posts/$current_date/images"
+mkdir -p "content/ja/posts/$current_date/images"
 
 echo "新しい投稿が作成されました: posts/$current_date/index.md"

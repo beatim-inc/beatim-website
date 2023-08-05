@@ -10,3 +10,13 @@ featured_image: ""
 tags: []
 draft: true
 ---
+
+
+<!--
+ニュース投稿の最後には以下の文章を適宜編集して追加する
+
+株式会社Beatim  
+代表取締役 高井悠宇  
+連絡先: [yuma@beatim.co.jp](mailto:yuma@beatim.co.jp)  
+公式ウェブサイト: [https://beatim.co.jp/](https://beatim.co.jp/)   
+-->

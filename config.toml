@@ -14,10 +14,10 @@ enableRobotsTXT = true
     title = "Beatim"
     weight = 1
     contentDir = "content/ja"
-  [languages.en]
-    title = "Beatim Inc."
-    weight = 2
-    contentDir = "content/en"
+  # [languages.en]
+  #   title = "Beatim Inc."
+  #   weight = 2
+  #   contentDir = "content/en"
 
 [params]
 # 企業ロゴへのパス
