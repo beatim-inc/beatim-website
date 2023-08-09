@@ -24,8 +24,10 @@ enableRobotsTXT = true
 #   logo = "images/logo.png"
 
 # トップページのメインイメージへのパス
-mainSections = ["posts"]
-#   featured_image = "images/featured-image.jpg"
+  mainSections = ["posts"]
+#  featured_image = "images/featured-image.jpg"
+  date_format = "2006年 1月 2日"
+# show_reading_time = true
 
 # サイトの説明
 #   description = "ここに企業の概要やサービス内容に関する簡単な説明を入れます。"
