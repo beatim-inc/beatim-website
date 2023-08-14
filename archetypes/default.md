@@ -18,5 +18,5 @@ draft: true
 株式会社Beatim  
 代表取締役 高井悠宇  
 連絡先: [yuma@beatim.co.jp](mailto:yuma@beatim.co.jp)  
-公式ウェブサイト: [https://beatim.co.jp/](https://beatim.co.jp/)   
+公式ウェブサイト: [https://www.beatim.co.jp/](https://www.beatim.co.jp/)   
 -->

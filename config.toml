@@ -1,4 +1,4 @@
-baseURL = 'https://beatim.co.jp/'
+baseURL = 'https://www.beatim.co.jp/'
 languageCode = 'ja'
 title = 'Beatim'
 theme = 'ananke'
